@@ -25,3 +25,4 @@ server:
 mybatis:
   mapperLocations: classpath:mapper/*.xml
   type-aliases-package: com.lzz.springcloud.bean
+filepath: file:/D:/peis_public/ok
